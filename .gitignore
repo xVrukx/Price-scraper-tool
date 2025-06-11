@@ -1,0 +1,10 @@
+# Ignore build artifacts
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.exe
+*.spec
+.pytest_cache/
