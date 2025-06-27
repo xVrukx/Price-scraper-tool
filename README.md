@@ -52,7 +52,9 @@ DB_NAME = "product_scraper"
 
 4. Run the Application
 python app.py
+
 📸 GUI Overview
+
 ![1750535944715](https://github.com/user-attachments/assets/c9988539-7283-4816-9e4c-63d26230d0cb)
 ![1750535832620](https://github.com/user-attachments/assets/4c84751f-359e-4644-b90b-f94a22b19043)
 
