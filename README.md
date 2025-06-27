@@ -82,19 +82,19 @@ price
 scraped_at (timestamp)
 
 📂 Project Structure
-makefile
-Copy
-Edit
+
 📁 gui-scraper-tool/
 │
-├── app.py               # Main GUI application
-├── scraper.py           # Scraping logic per site
-├── database.py          # SQLAlchemy setup
-├── db_config.py         # DB credentials
-├── export.py            # CSV export logic
-├── utils.py             # Error handling, validators
-├── requirements.txt
-└── README.md
+├── tests
+├── .gitignore
+├── LICENSE
+├── README.md
+├── conftest.py
+├── price_scraper.py
+├── pytest.ini
+├── version.txt 
+└── scraper.ico
+
 🚀 Future Improvements
  Multi-product batch scraping
 
