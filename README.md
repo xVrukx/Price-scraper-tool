@@ -117,5 +117,8 @@ Vruk (vrukcodes)
 Student | Python Developer | Automation Enthusiast
 GitHub: github.com/xVrukx
 
+👩Guide
+KI my sensei guided me and helped me throught this project
+
 📄 License
 MIT License – use freely, modify as needed, give credit if shared.
